@@ -11,3 +11,20 @@ Requisitos previos:
   3. Una vez acabado el proceso, nos devolverá un fichero CSV llamado output.csv con toda la información obtenida
   4. Además, lo pinta en pantalla.
      
+Ejecucion:
+
+sudo python3 virustotal.py
+
+![image](https://github.com/JoseMarinManzano/ReputacionIP/assets/147179609/a2626f63-4619-4857-8013-518dddf0738d)
+
+IP Address - IP escaneada
+
+Malicious Reports - Reportes de reputación negativos
+
+Malicious Votes - Votos negativos que tiene la IP
+
+ASN - Numero de ASN del proveedor
+
+Pertenece - Empresa a la que pertenece la IP
+
+Enlace - Enlace a la web de VIRUSTOTAL para ver el informe completo
